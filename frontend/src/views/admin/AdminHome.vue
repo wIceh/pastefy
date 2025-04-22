@@ -4,7 +4,7 @@ import { client } from '@/main.ts'
 import LoadingContainer from '@/components/LoadingContainer.vue'
 import ErrorContainer from '@/components/ErrorContainer.vue'
 
-useTitle('Home - Admin | pastefy')
+useTitle('Home - Admin | IcePaste')
 
 const {
   isLoading,
