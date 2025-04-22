@@ -7,7 +7,7 @@ import LoadingContainer from '@/components/LoadingContainer.vue'
 import PasteList from '@/components/lists/PasteList.vue'
 import type { Tag } from '@/types/tags.ts'
 
-useTitle(`Tag | Pastefy`)
+useTitle(`Tag | IcePaste`)
 
 const route = useRoute()
 
