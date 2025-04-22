@@ -10,7 +10,7 @@ import LoadingContainer from '@/components/LoadingContainer.vue'
 import TagCard from '@/components/TagCard.vue'
 import Pagination from '@/components/Pagination.vue'
 
-useTitle(`Explore | Pastefy`)
+useTitle(`Explore | IcePaste`)
 
 const appStore = useAppStore()
 
