@@ -2,7 +2,7 @@
 import PasteList from '@/components/lists/PasteList.vue'
 import { useTitle } from '@vueuse/core'
 
-useTitle(`Stars | Pastefy`)
+useTitle(`Stars | IcePaste`)
 </script>
 
 <template>
