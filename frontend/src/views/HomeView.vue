@@ -10,7 +10,7 @@ import { useAppInfoStore } from '@/stores/app-info.ts'
 import LoginModal from '@/components/modals/LoginModal.vue'
 import { ref } from 'vue'
 
-useTitle(`Pastefy • Share your code snippets`)
+useTitle(`IcePaste • Share your code snippets`)
 
 const appInfo = useAppInfoStore()
 
