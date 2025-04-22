@@ -8,7 +8,7 @@ import ErrorContainer from '@/components/ErrorContainer.vue'
 import LoadingContainer from '@/components/LoadingContainer.vue'
 import PasteList from '@/components/lists/PasteList.vue'
 
-useTitle(`User | Pastefy`)
+useTitle(`User | IcePaste`)
 
 const route = useRoute()
 
