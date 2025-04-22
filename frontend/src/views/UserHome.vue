@@ -2,7 +2,7 @@
 import PasteList from '@/components/lists/PasteList.vue'
 import FolderList from '@/components/lists/FolderList.vue'
 import { useTitle } from '@vueuse/core'
-useTitle(`Home | Pastefy`)
+useTitle(`Home | IcePaste`)
 </script>
 
 <template>
