@@ -11,7 +11,7 @@ import LoadingContainer from '@/components/LoadingContainer.vue'
 import { useConfirm } from 'primevue/useconfirm'
 import router from '@/router'
 
-useTitle(`Folder | Pastefy`)
+useTitle(`Folder | IcePaste`)
 
 const route = useRoute()
 
