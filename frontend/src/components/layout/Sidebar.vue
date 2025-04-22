@@ -66,11 +66,11 @@ const appStore = useAppStore()
           <Button
             as="a"
             target="_blank"
-            href="https://github.com/interaapps/pastefy"
+            href="https://github.com/wIceh"
             icon="ti ti-brand-github text-xl"
             text
             severity="contrast"
-            aria-label="Source Code"
+            aria-label="wIceh"
           />
           <template v-if="appInfo">
             <Button
